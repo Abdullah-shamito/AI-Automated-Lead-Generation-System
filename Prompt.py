@@ -1,0 +1,1 @@
+prompt = {f"Write a personalized email to {recipient_name}, {job_title} at {company}. The email should be about {your_subject}, and should include {specific_details}. Keep it friendly and professional."}
